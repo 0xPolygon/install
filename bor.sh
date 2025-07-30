@@ -83,7 +83,7 @@ else
     tag=${version}
 fi
 
-baseUrl="https://github.com/maticnetwork/bor/releases/download/v${version}"
+baseUrl="https://github.com/0xPolygon/bor/releases/download/v${version}"
 
 echo $baseUrl
 
