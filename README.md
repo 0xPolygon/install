@@ -7,7 +7,7 @@ Utility scripts that install binaries based on the operating system. The script 
 Clone this git repository
 
 ```
-git clone https://github.com/maticnetwork/install.git
+git clone https://github.com/0xPolygon/install.git
 cd install
 ```
 
